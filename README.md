@@ -130,27 +130,6 @@ Used to determine the optimal number of clusters for K-Means.
 
 ---
 
-## ▶️ How to Run the Project
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/health-fitness-predictive-analytics.git
-   ```
-2. Install dependencies:
-
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
-   ```
-3. Update the dataset file path in the script.
-4. Run the Python file:
-
-   ```bash
-   python health_fitness_project.py
-   ```
-
----
-
 ## 📌 Key Outcomes
 
 * Identified meaningful patterns in health and fitness behavior
@@ -159,15 +138,3 @@ Used to determine the optimal number of clusters for K-Means.
 * Visualized insights for better interpretability
 
 ---
-
-## 👩‍💻 Author
-
-**Deepthi**
-Health & Fitness Analytics Project
-Course: INT 234
-
----
-
-## 📄 License
-
-This project is for **academic and educational purposes**.
