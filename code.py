@@ -222,9 +222,9 @@ plt.show()
 print("\nClassification Report – Willingness to Pay:")
 print(classification_report(y_test, y_pred, zero_division=0))
 
-# =========================================================
+# ---------------------------------------------------------
 # ADDITIONAL OBJECTIVES
-# =========================================================
+# ---------------------------------------------------------
 
 knn = KNeighborsClassifier()
 knn.fit(X_train, y_train)
@@ -234,9 +234,10 @@ rf = RandomForestClassifier(random_state=42)
 cv_scores = cross_val_score(rf, X, y, cv=5)
 print("Random Forest CV Accuracy:", cv_scores.mean())
 
-# =========================================================
+# ---------------------------------------------------------
 # END OF PROJECT
-# =========================================================
+# ---------------------------------------------------------
+
 
 
 
