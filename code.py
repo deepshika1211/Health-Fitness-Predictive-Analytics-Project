@@ -26,7 +26,7 @@ from sklearn.neural_network import MLPClassifier
 
 # ---------------------------------------------------------
 # FILE PATH
-# =========================================================
+# 
 
 file_path = r"C:\Users\deept\OneDrive\Desktop\int 234 project\_ Health & Fitness Insights - Form responses 1.csv"
 
@@ -237,6 +237,7 @@ print("Random Forest CV Accuracy:", cv_scores.mean())
 # =========================================================
 # END OF PROJECT
 # =========================================================
+
 
 
 
