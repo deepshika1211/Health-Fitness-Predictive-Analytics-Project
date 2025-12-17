@@ -24,7 +24,7 @@ from sklearn.decomposition import PCA
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.neural_network import MLPClassifier
 
-# 
+# ---------------------------------------------------------
 # FILE PATH
 # =========================================================
 
@@ -237,6 +237,7 @@ print("Random Forest CV Accuracy:", cv_scores.mean())
 # =========================================================
 # END OF PROJECT
 # =========================================================
+
 
 
 
