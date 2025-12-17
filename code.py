@@ -31,7 +31,7 @@ from sklearn.neural_network import MLPClassifier
 file_path = r"C:\Users\deept\OneDrive\Desktop\int 234 project\_ Health & Fitness Insights - Form responses 1.csv"
 
 # =========================================================
-# UNIT I – DATA PREPROCESSING
+# DATA PREPROCESSING
 # =========================================================
 
 df = pd.read_csv(file_path)
@@ -237,6 +237,7 @@ print("Random Forest CV Accuracy:", cv_scores.mean())
 # =========================================================
 # END OF PROJECT
 # =========================================================
+
 
 
 
