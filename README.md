@@ -23,12 +23,12 @@ The project is implemented entirely in **Python** using popular data science lib
 * Evaluate model performance using standard metrics
 
 ---
-📂 Dataset Description (Primary Data)
+## 📂 Dataset Description (Primary Data)
 
-Data Type: Primary data
-Collection Method: Online survey (Google Forms)
-File Format: CSV
-File Name: _ Health & Fitness Insights - Form responses 1.csv
+* Data Type: Primary data
+* Collection Method: Online survey (Google Forms)
+* File Format: CSV
+* File Name: _ Health & Fitness Insights - Form responses 1.csv
 
 ### Preprocessing Steps:
 
