@@ -162,9 +162,9 @@ plot_tree(dt_model, feature_names=X.columns, filled=True, rounded=True)
 plt.title("Decision Tree – Exercise Consistency")
 plt.show()
 
-# =========================================================
+# ---------------------------------------------------------
 # VISUALIZATION – ROC CURVE (MENTAL WELL-BEING)
-# =========================================================
+# ---------------------------------------------------------
 
 mental_col = df.columns[13]
 df["Mental_Wellbeing_Binary"] = df[mental_col].apply(lambda x: 1 if x > 0 else 0)
@@ -195,9 +195,9 @@ plt.show()
 
 print("AUC Score (Mental Well-being):", auc_score)
 
-# =========================================================
+# ---------------------------------------------------------
 # VISUALIZATION – CONFUSION MATRIX (WILLINGNESS TO PAY)
-# =========================================================
+# ---------------------------------------------------------
 
 X = df.drop(columns=[df.columns[-1]])
 y = df[df.columns[-1]]
@@ -237,6 +237,7 @@ print("Random Forest CV Accuracy:", cv_scores.mean())
 # =========================================================
 # END OF PROJECT
 # =========================================================
+
 
 
 
