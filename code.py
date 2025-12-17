@@ -126,9 +126,9 @@ plt.xlabel("Feature 1 (Scaled)")
 plt.ylabel("Feature 2 (Scaled)")
 plt.show()
 
-# =========================================================
+# ----------------------------------------------------------
 # OBJECTIVE – PCA VISUALIZATION
-# =========================================================
+# ----------------------------------------------------------
 
 pca = PCA(n_components=2)
 pca_data = pca.fit_transform(scaled_data)
@@ -140,9 +140,9 @@ plt.xlabel("Principal Component 1")
 plt.ylabel("Principal Component 2")
 plt.show()
 
-# =========================================================
+# ---------------------------------------------------------
 # VISUALIZATION – DECISION TREE (EXERCISE CONSISTENCY)
-# =========================================================
+# ---------------------------------------------------------
 
 X = df[[df.columns[12], df.columns[7], df.columns[13], df.columns[9]]]
 y = df[df.columns[0]]
@@ -237,6 +237,7 @@ print("Random Forest CV Accuracy:", cv_scores.mean())
 # =========================================================
 # END OF PROJECT
 # =========================================================
+
 
 
 
