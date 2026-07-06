@@ -1,0 +1,127 @@
+2026-07-06 01:29:29,600 | INFO | ========== HealthSense AI Started ==========
+2026-07-06 01:29:29,630 | INFO | Dataset loaded successfully.
+2026-07-06 01:29:29,631 | INFO | Starting data validation...
+2026-07-06 01:29:29,635 | WARNING | Missing values found in dataset.
+2026-07-06 01:29:29,636 | WARNING | 
+Timestamp                                                                                          0
+  1.How often do you exercise in a typical week?                                                   0
+2. What is your main fitness goal?                                                                 0
+3. Where do you usually work out?                                                                  0
+4. How long are your average workout sessions?                                                     0
+5.  What type of exercise do you prefer the most?                                                  0
+6. Do you follow a structured workout routine or plan?                                             0
+7. How would you rate your current fitness level?                                                  0
+8. What is your biggest challenge in maintaining a fitness routine?                                1
+9. Do you track your fitness progress?                                                             0
+10. If yes, what do you use to track progress?                                                     3
+11. Do you follow any specific diet or eating plan?                                                0
+12. How important is nutrition to your fitness goals?                                              0
+13.  How motivated do you feel about exercising on most days?                                      0
+14.  Has exercise improved your mental or emotional well-being?                                    0
+15. What is one thing that would help you improve your fitness routine?                            0
+16. How do you typically stay motivated to work out?                                               0
+17. Do you use any fitness technology (apps, wearables, etc.)?                                     0
+18.  If yes, which fitness apps or devices do you use?                                            11
+19.  Do you feel that your fitness routine is balanced (cardio, strength, flexibility, etc.)?      0
+20.  Would you be willing to pay for a personal trainer or fitness coach?                          0
+Email address                                                                                      2
+dtype: int64
+2026-07-06 01:29:29,647 | INFO | No duplicate rows found.
+2026-07-06 01:29:29,647 | INFO | Data validation completed successfully.
+2026-07-06 01:29:29,648 | INFO | Starting data preprocessing...
+2026-07-06 01:29:29,847 | INFO | Data preprocessing completed successfully.
+2026-07-06 01:29:29,847 | INFO | Pipeline executed successfully.
+2026-07-06 01:29:29,848 | INFO | ========== HealthSense AI Finished ==========
+2026-07-06 01:33:47,624 | INFO | generated new fontManager
+2026-07-06 01:33:53,756 | INFO | ========== HealthSense AI Started ==========
+2026-07-06 01:33:53,785 | INFO | Dataset loaded successfully.
+2026-07-06 01:33:53,785 | INFO | Starting data validation...
+2026-07-06 01:33:53,790 | WARNING | Missing values found in dataset.
+2026-07-06 01:33:53,791 | WARNING | 
+Timestamp                                                                                          0
+  1.How often do you exercise in a typical week?                                                   0
+2. What is your main fitness goal?                                                                 0
+3. Where do you usually work out?                                                                  0
+4. How long are your average workout sessions?                                                     0
+5.  What type of exercise do you prefer the most?                                                  0
+6. Do you follow a structured workout routine or plan?                                             0
+7. How would you rate your current fitness level?                                                  0
+8. What is your biggest challenge in maintaining a fitness routine?                                1
+9. Do you track your fitness progress?                                                             0
+10. If yes, what do you use to track progress?                                                     3
+11. Do you follow any specific diet or eating plan?                                                0
+12. How important is nutrition to your fitness goals?                                              0
+13.  How motivated do you feel about exercising on most days?                                      0
+14.  Has exercise improved your mental or emotional well-being?                                    0
+15. What is one thing that would help you improve your fitness routine?                            0
+16. How do you typically stay motivated to work out?                                               0
+17. Do you use any fitness technology (apps, wearables, etc.)?                                     0
+18.  If yes, which fitness apps or devices do you use?                                            11
+19.  Do you feel that your fitness routine is balanced (cardio, strength, flexibility, etc.)?      0
+20.  Would you be willing to pay for a personal trainer or fitness coach?                          0
+Email address                                                                                      2
+dtype: int64
+2026-07-06 01:33:53,800 | INFO | No duplicate rows found.
+2026-07-06 01:33:53,800 | INFO | Data validation completed successfully.
+2026-07-06 01:33:53,802 | INFO | Starting data preprocessing...
+2026-07-06 01:33:53,849 | INFO | Data preprocessing completed successfully.
+2026-07-06 01:33:53,849 | INFO | ========== EDA Started ==========
+2026-07-06 01:33:53,909 | INFO | EDA completed successfully.
+2026-07-06 01:33:53,909 | INFO | Plotting target distribution...
+2026-07-06 01:33:54,380 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-06 01:33:54,388 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-06 01:34:02,881 | INFO | Plotting correlation heatmap...
+2026-07-06 01:34:12,038 | INFO | Plotting feature distributions...
+2026-07-06 01:34:17,472 | INFO | Pipeline executed successfully.
+2026-07-06 01:34:17,472 | INFO | ========== HealthSense AI Finished ==========
+2026-07-06 01:38:36,192 | INFO | ========== HealthSense AI Started ==========
+2026-07-06 01:38:36,202 | INFO | Dataset loaded successfully.
+2026-07-06 01:38:36,202 | INFO | Starting data validation...
+2026-07-06 01:38:36,203 | WARNING | Missing values found in dataset.
+2026-07-06 01:38:36,204 | WARNING | 
+Timestamp                                                                                          0
+  1.How often do you exercise in a typical week?                                                   0
+2. What is your main fitness goal?                                                                 0
+3. Where do you usually work out?                                                                  0
+4. How long are your average workout sessions?                                                     0
+5.  What type of exercise do you prefer the most?                                                  0
+6. Do you follow a structured workout routine or plan?                                             0
+7. How would you rate your current fitness level?                                                  0
+8. What is your biggest challenge in maintaining a fitness routine?                                1
+9. Do you track your fitness progress?                                                             0
+10. If yes, what do you use to track progress?                                                     3
+11. Do you follow any specific diet or eating plan?                                                0
+12. How important is nutrition to your fitness goals?                                              0
+13.  How motivated do you feel about exercising on most days?                                      0
+14.  Has exercise improved your mental or emotional well-being?                                    0
+15. What is one thing that would help you improve your fitness routine?                            0
+16. How do you typically stay motivated to work out?                                               0
+17. Do you use any fitness technology (apps, wearables, etc.)?                                     0
+18.  If yes, which fitness apps or devices do you use?                                            11
+19.  Do you feel that your fitness routine is balanced (cardio, strength, flexibility, etc.)?      0
+20.  Would you be willing to pay for a personal trainer or fitness coach?                          0
+Email address                                                                                      2
+dtype: int64
+2026-07-06 01:38:36,207 | INFO | No duplicate rows found.
+2026-07-06 01:38:36,207 | INFO | Data validation completed successfully.
+2026-07-06 01:38:36,207 | INFO | Starting data preprocessing...
+2026-07-06 01:38:36,239 | INFO | Data preprocessing completed successfully.
+2026-07-06 01:38:36,240 | INFO | ========== EDA Started ==========
+2026-07-06 01:38:36,289 | INFO | EDA completed successfully.
+2026-07-06 01:38:36,289 | INFO | Plotting target distribution...
+2026-07-06 01:38:36,423 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-06 01:38:36,427 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-06 01:38:39,557 | INFO | Plotting correlation heatmap...
+2026-07-06 01:38:44,143 | INFO | Plotting feature distributions...
+2026-07-06 01:38:46,784 | INFO | ========== Model Training Started ==========
+2026-07-06 01:38:46,792 | INFO | Training Logistic Regression...
+2026-07-06 01:38:47,061 | INFO | Training Decision Tree...
+2026-07-06 01:38:47,066 | INFO | Training Random Forest...
+2026-07-06 01:38:47,193 | INFO | Model saved successfully.
+2026-07-06 01:38:47,193 | INFO | ========== Model Training Completed ==========
+2026-07-06 01:38:47,193 | INFO | ========== Model Evaluation Started ==========
+2026-07-06 01:38:47,193 | INFO | Evaluating Logistic Regression...
+2026-07-06 01:38:47,204 | INFO | Evaluating Decision Tree...
+2026-07-06 01:38:47,212 | INFO | Evaluating Random Forest...
+2026-07-06 01:38:47,227 | INFO | ========== Model Evaluation Completed ==========
+2026-07-06 01:38:47,228 | INFO | ========== HealthSense AI Finished ==========
